@@ -48,4 +48,8 @@ I like science, technology and art.
 <a href="https://twitter.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="additrejo" height="30" width="40" /></a>
 <a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a>
-</p> <p align="rigt"> <img src="https://komarev.com/ghpvc/?username=addiptrejo&label=Profile%20views&color=0e75b6&style=flat" alt="addiptrejo" /> </p>
+ <a href="https://linkedin.com/in/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="additrejo" height="30" width="40" /></a>
+
+</p> <p align="rigt"> <img src="https://komarev.com/ghpvc/?username=addiptrejo&label=Profile%20views&color=0e75b6&style=flat" alt="addiptrejo" /> </p> 
+
+  ---
