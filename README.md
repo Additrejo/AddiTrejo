@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQGlV6nDYyoAMw/profile-displaybackgroundimage-shrink_350_1400/0/1677189129711?e=1682553600&v=beta&t=8pySJ6AUBmlXCPaC9bQL9MtHQgyKLMH8AHPY8NGg0VE" width="1000" />
-<h1 align="center"> Hello There </h1>
+<h1 align="center"> Hello There 😃: </h1>
 <h3 align="center"> Passionate about designing, creating and building, innovating, learning and teaching. Here you find a little of what I do, I hope you put it to good use. </h3>
 </div>
 
@@ -14,9 +14,9 @@
 ### About Me :
 Communications and electronics engineering intern at the Instituto Politécnico Nacional.
 I like science, technology and art.
-- 🔭  I have a STEM+ education project on [Expaciomx](https://www.youtube.com/@expaciomx7487) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
+- 🔭 👨‍🔬 I have a STEM+ education project on [Expaciomx](https://www.youtube.com/@expaciomx7487) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
-- 🌱 I’m currently learning **Framewors, Robotics, CubeSats**
+-  :electron: 💻 📡 🛰️ 👾 I’m currently learning **Framewors, Robotics, CubeSats**
 
 - 💬 Ask me about **Programing, Electronics**
 
