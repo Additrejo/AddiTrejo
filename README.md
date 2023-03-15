@@ -16,7 +16,7 @@ Communications and electronics engineering intern at the Instituto Politécnico 
 I like science, technology and art.
 - 🔭 👨‍🔬 I have a STEM+ education project on [Expaciomx](https://www.youtube.com/@expaciomx7487) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
--  :electron: 💻 📡 🛰️ 👾 I’m currently learning **Framewors, Robotics, CubeSats**
+-  :electron: 💻 📡 🛰️ 👾 I’m currently learning **Frameworks, IOT, Robotics, CubeSats**
 
 - 💬 Ask me about **Programing, Electronics**
 
