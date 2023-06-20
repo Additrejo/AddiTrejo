@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQGlV6nDYyoAMw/profile-displaybackgroundimage-shrink_350_1400/0/1677189129711?e=1682553600&v=beta&t=8pySJ6AUBmlXCPaC9bQL9MtHQgyKLMH8AHPY8NGg0VE" width="1000" />
+<img src="https://media.licdn.com/dms/image/D4E16AQGlV6nDYyoAMw/profile-displaybackgroundimage-shrink_350_1400/0/1677189129711?e=1692835200&amp;v=beta&amp;t=hWj26C5nssQlyGXq_6vwjAs1g7yj4FLJn7MyHBrgc9o" alt="Addi Pérez Trejo" id="ember176" class="full-width evi-image ember-view" width="1000" />
 <h1 align="center"> Hello There 😃 </h1>
 <h3 align="center"> Passionate about designing, creating and building, innovating, learning and teaching. Here you find a little of what I do, I hope you put it to good use. </h3>
 </div>
