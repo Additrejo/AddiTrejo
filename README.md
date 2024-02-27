@@ -37,14 +37,16 @@ I like science, technology and art.
   
 ---
 ### My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AddiTrejo&show_icons=true&theme=transparent)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddiTrejo&layout=compact)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo)](https://github.com/addtrejo/github-readme-stats)  --->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo&layout=compact) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
