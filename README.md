@@ -37,14 +37,26 @@ I like science, technology and art.
   
 ---
 ### My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats) 
 
-<a href="https://github.com/AddiTrejo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AddiTrejo&theme=dark"  />
-</a>
-<a href="https://github.com/AddiTrejo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AddiTrejo&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats)  
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/AddiTrejo/github-readme-stats">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AddiTrejo&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AddiTrejo/convoychat">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AddiTrejo&layout=compact&langs_count=8&card_width=320&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddiTrejo&layout=compact) --->
 
