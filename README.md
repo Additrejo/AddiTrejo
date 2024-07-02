@@ -37,10 +37,16 @@ I like science, technology and art.
   
 ---
 ### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AddiTrejo&show_icons=true&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddiTrejo&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats) 
 
+<a href="https://github.com/AddiTrejo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AddiTrejo&theme=dark"  />
+</a>
+<a href="https://github.com/AddiTrejo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AddiTrejo&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddiTrejo&layout=compact) --->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo)](https://github.com/addtrejo/github-readme-stats)  --->
 
@@ -52,8 +58,8 @@ I like science, technology and art.
 
   
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="additrejo" height="30" width="40" /></a>
 <a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a>
