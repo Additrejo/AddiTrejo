@@ -36,6 +36,7 @@ I like science, technology and art.
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" align="right"/> </a> 
   
 ---
+<!-- !
 ### My stats
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AddiTrejo&theme=dark&locale=es)](https://git.io/streak-stats)  
@@ -57,6 +58,7 @@ I like science, technology and art.
     </tr>
   </table>
 </div>
+--->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddiTrejo&layout=compact) --->
 
@@ -67,6 +69,36 @@ I like science, technology and art.
 
 
 ---
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=additrejo&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=additrejo&custom_title=Addi's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=CDCDCD&line=1E90FF&point=1E90FF&area_color=000000&title_color=CDCDCD&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=additrejo&theme=dark&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=additrejo&hide_border=true&border_radius=15&show_icons=true&theme=dark" alt="addi's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=additrejo&theme=dark&hide_border=true">
+
 
   
 ---
