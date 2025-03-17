@@ -14,15 +14,13 @@
 ### About Me :
 Communications and electronics engineering intern at the Instituto Politécnico Nacional.
 I like science, technology and art.
-- 🔭 👨‍🔬 I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacio/inicio?authuser=0) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
+-  I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacio/inicio?authuser=0) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
--  :electron: 💻 📡 🛰️ 👾 I’m currently learning **IA, Frameworks, IOT, Robotics, CubeSats**
+-  I’m currently learning **IA, Frameworks, IOT, Robotics, CubeSats**
 
-- 💬 Ask me about **Programing, Electronics**
+-  How to reach me **addiperezTrejo@gmail.com**
 
-- 📫 How to reach me **addiperezTrejo@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/additrejo/](https://www.linkedin.com/in/additrejo/)
+-  Know about my experiences [https://www.linkedin.com/in/additrejo/](https://www.linkedin.com/in/additrejo/)
  ------------------------------------------------
  <h3 align="Center">Languages and Tools:</h3>
 
