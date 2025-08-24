@@ -14,13 +14,13 @@
 ### About Me :
 Communications and electronics engineering intern at the Instituto Politécnico Nacional.
 I like science, technology and art.
--  I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacio/inicio?authuser=0) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
+-  I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacioSTEAM/) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
--  I’m currently learning **IA, Frameworks, IOT, Robotics, CubeSats**
+-  My Work in **[WEB](https://github.com/topics/at-web), [IA](https://github.com/topics/at-ia), [IoT](https://github.com/topics/at-iot), [Robotics](https://github.com/topics/at-robotics), [CubeSats](https://github.com/topics/at-cubesat), [Semiconductors](https://github.com/topics/at-semiconductors), [Electronics](https://github.com/topics/at-electronics), [Software](https://github.com/topics/at-software),**
 
--  How to reach me **addiperezTrejo@gmail.com**
+-  Contact me **addiperezTrejo@gmail.com**
 
--  Know about my experiences [https://www.linkedin.com/in/additrejo/](https://www.linkedin.com/in/additrejo/)
+-  Know about my experiences [Linkedin](https://www.linkedin.com/in/additrejo/)
 
 <!-- <h3 align="Center">Languages and Tools:</h3>
 
@@ -98,11 +98,10 @@ I like science, technology and art.
   
 ---
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center"> <!--
 <a href="https://twitter.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="additrejo" height="30" width="40" /></a>
-<a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="additrejo" height="30" width="40" /></a>
+</a>
+<a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a>--> <a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /><a href="https://linkedin.com/in/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="additrejo" height="30" width="40" /></a>
 
 </p> <p align="rigt"> <img src="https://komarev.com/ghpvc/?username=addiptrejo&label=Profile%20views&color=0e75b6&style=flat" alt="addiptrejo" /> </p> 
 
