@@ -3,11 +3,7 @@
 <h3 align="center"> Passionate about designing, creating and building, innovating, learning and teaching. Here you find a little of what I do, I hope you put it to good use. </h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/AddiTrejo">
-    <img src="https://img.shields.io/twitter/follow/additrejo?color=red%20&logoColor=black&style=social"
-         alt="Twitter badge" />
-  </a>
+
   </d>
 
 ---
@@ -16,7 +12,9 @@ Communications and electronics engineering intern at the Instituto Politécnico 
 I like science, technology and art.
 -  I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacioSTEAM/) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
--  My Work in **[WEB](https://github.com/topics/at-web), [IA](https://github.com/topics/at-ia), [IoT](https://github.com/topics/at-iot), [Robotics](https://github.com/topics/at-robotics), [CubeSats](https://github.com/topics/at-cubesat), [Semiconductors](https://github.com/topics/at-semiconductors), [Electronics](https://github.com/topics/at-electronics), [Software](https://github.com/topics/at-software),**
+-  My Work in **[WEB](https://github.com/topics/at-web), [IA](https://github.com/topics/at-ia), [IoT](https://github.com/topics/at-iot), [Robotics](https://github.com/topics/at-robotics), [CubeSats](https://github.com/topics/at-cubesat), [Semiconductors](https://github.com/topics/at-semiconductors), [Electronics](https://github.com/topics/at-electronics), [Software](https://github.com/topics/at-software)**
+
+-  My certifications in **[Cisco](https://github.com/Additrejo/Cisco-Networking-Academy-Trainee?tab=readme-ov-file), [IBM](https://github.com/Additrejo/IBM-skillsbuild), [Microsoft](https://github.com/Additrejo/IBM-skillsbuild)**
 
 -  Contact me **addiperezTrejo@gmail.com**
 
@@ -101,7 +99,7 @@ I like science, technology and art.
 <p align="center"> <!--
 <a href="https://twitter.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="additrejo" height="30" width="40" /></a>
 </a>
-<a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a>--> <a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /><a href="https://linkedin.com/in/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="additrejo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@expaciomx7487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expaciomx" height="30" width="40" /></a><a href="https://instagram.com/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="additrejo" height="30" width="40" /> -->   <a href="https://linkedin.com/in/additrejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="additrejo" height="30" width="40" /></a>
 
 </p> <p align="rigt"> <img src="https://komarev.com/ghpvc/?username=addiptrejo&label=Profile%20views&color=0e75b6&style=flat" alt="addiptrejo" /> </p> 
 
