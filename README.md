@@ -10,7 +10,7 @@
 ### About Me :
 Communications and electronics engineering intern at the Instituto Politécnico Nacional.
 I like science, technology and art.
--  I have a STEM+ education project on [Expaciomx](https://sites.google.com/view/expacioSTEAM/) and [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
+-  I have a STEM+ education project on [Club Astronomico Espacio](https://www.facebook.com/clubastronomicoespacio) 
 
 -  My Work in **[WEB](https://github.com/topics/at-web), [IA](https://github.com/topics/at-ia), [IoT](https://github.com/topics/at-iot), [Robotics](https://github.com/topics/at-robotics), [CubeSats](https://github.com/topics/at-cubesat), [Semiconductors](https://github.com/topics/at-semiconductors), [Electronics](https://github.com/topics/at-electronics), [Software](https://github.com/topics/at-software)**
 
@@ -75,7 +75,7 @@ I like science, technology and art.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
+      <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true" alt="Repos Per Language">
@@ -88,7 +88,7 @@ I like science, technology and art.
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=additrejo&hide_border=true&border_radius=15&show_icons=true&theme=dark" alt="addi's GitHub stats">
+<img src="https://github-readme-stats-sigma-eight-92.vercel.app/api?username=additrejo&hide_border=true&border_radius=15&show_icons=true&theme=dark" alt="addi's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=additrejo&theme=dark&hide_border=true">
 
