@@ -14,7 +14,7 @@ I like science, technology and art.
 
 -  My Work in **[WEB](https://github.com/topics/at-web), [IA](https://github.com/topics/at-ia), [IoT](https://github.com/topics/at-iot), [Robotics](https://github.com/topics/at-robotics), [CubeSats](https://github.com/topics/at-cubesat), [Semiconductors](https://github.com/topics/at-semiconductors), [Electronics](https://github.com/topics/at-electronics), [Software](https://github.com/topics/at-software)**
 
--  My certifications in **[Cisco](https://github.com/Additrejo/Cisco-Networking-Academy-Trainee?tab=readme-ov-file), [IBM](https://github.com/Additrejo/IBM-skillsbuild), [Microsoft](https://github.com/Additrejo/IBM-skillsbuild)**
+-  My certifications in **[Cisco](https://github.com/Additrejo/Cisco-Networking-Academy-Trainee?tab=readme-ov-file), [IBM](https://github.com/Additrejo/IBM-skillsbuild), [Microsoft](https://github.com/Additrejo/IBM-skillsbuild), [Mathworks](https://github.com/Additrejo/MATLAB-traine).**
 
 -  Contact me **addiperezTrejo@gmail.com**
 
