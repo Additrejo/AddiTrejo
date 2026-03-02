@@ -77,9 +77,9 @@ I like science, technology and art.
    <td>
       <img src= "https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&v=2">
     </td>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
-    </td>
+    </td> -->
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true" alt="Repos Per Language">
     </td>
