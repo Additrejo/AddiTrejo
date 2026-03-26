@@ -75,16 +75,16 @@ I like science, technology and art.
 <table>
   <tr>
    <td>
-      <img src= "https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&v=2">
-    </td>
-<!--     <td>
-      <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
-    </td> -->
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true" alt="Repos Per Language">
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&cache_seconds=1800">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=additrejo&theme=dark&hide_border=true" alt="Most Commit Language">
+  <!-- Repos per language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true">
+    </td> 
+    <td>
+<!-- Most commit language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=additrejo&theme=dark&hide_border=true">
     </td>
   </tr>
 </table>
