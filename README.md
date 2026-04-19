@@ -64,38 +64,29 @@ I like science, technology and art.
 ---
 
 <h3 align="center">Git Stats</h3>
-
 <div align="center">
- <!-- 
-  <img src="https://streak-stats.demolab.com/?user=additrejo&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br> -->
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=additrejo&custom_title=Addi's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=CDCDCD&line=1E90FF&point=1E90FF&area_color=000000&title_color=CDCDCD&area=true" alt="GitHub Activity Graph" /> -->
-<br>
-<div align="center">
-<table>
-  <tr>
-   <td>
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&cache_seconds=1800">
-    </td>
-    <td>
-  <!-- Repos per language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true">
-    </td> 
-    <td>
-<!-- Most commit language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=additrejo&theme=dark&hide_border=true">
-    </td>
-  </tr>
-</table>
-
+  <br>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <!-- Most Used Languages -->
+          <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&cache_seconds=1800">
+        </td>
+        <td>
+          <!-- Repos per language -->
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=additrejo&theme=dark&hide_border=true">
+        </td>
+        <td>
+          <!-- Most commit language -->
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=additrejo&theme=dark&hide_border=true">
+        </td>
+      </tr>
+    </table>
+  </div>
+  <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api?username=additrejo&hide_border=true&border_radius=15&show_icons=true&theme=dark&cache_seconds=1800" alt="addi's GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=additrejo&theme=dark&hide_border=true">
 </div>
-
-<img src="https://github-readme-stats-sigma-eight-92.vercel.app/api?username=additrejo&hide_border=true&border_radius=15&show_icons=true&theme=dark" alt="addi's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=additrejo&theme=dark&hide_border=true">
-
-
   
 ---
 <h3 align="center">Connect with me:</h3>
