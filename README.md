@@ -71,7 +71,7 @@ I like science, technology and art.
       <tr>
         <td>
           <!-- Most Used Languages -->
-          <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&cache_seconds=1800">
+          <img src="https://github-readme-stats-sigma-eight-92.vercel.app/api/top-langs/?username=additrejo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark&cache_seconds=1800&count_private=true">
         </td>
         <td>
           <!-- Repos per language -->
